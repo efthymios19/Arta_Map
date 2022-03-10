@@ -1,2 +1,2 @@
 # Arta_Map
-You can explore this map [as its own web page here](soil_samples.html)
+You can explore this map [https://efthymios19.github.io/Arta_Map/](soil_samples.html)
